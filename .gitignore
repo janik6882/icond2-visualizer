@@ -1,0 +1,11 @@
+# Ressource-/Data-/Outputfolders
+/images
+/data
+/ressources
+
+# Folders for prototyping and personal testing
+/testing
+
+
+# IntelliJ Stuff
+/.idea
